@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/jar_files/log4j-core-2.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/jar_files/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/jar_files/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senthilkumar.k/Documents/Automation/software/Softwareselenium/poi-bin-5.2.3-20220909/XSSF excel jars/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
